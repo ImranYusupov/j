@@ -1,0 +1,18 @@
+.text{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+}
+.text:hover{
+    color: black;
+    font-size: 24px;
+    transition: all 1s;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(103, 118, 118);
+    border: 2px solid black;
+}
+.box:hover{
+    background-color: rgb(63, 44, 161);
+}
